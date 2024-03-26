@@ -1,0 +1,48 @@
+body{
+    background-color: #dacfe5;
+    color: black;
+    margin: 4px ;
+    border: 10px solid black;
+    padding: 4px;
+   height: 110vh;
+}
+#form1{
+    text-align: center;
+    background-color: rgb(247, 68, 68);
+    font-size: large;
+    font-family: cursive;
+    border-radius: 12px;
+}
+#register{
+    text-align: center;
+    background-color: rgb(155, 68, 247);
+    font-size: larger;
+    border-radius: 12px;
+}
+input{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #3be6ad;
+    border-radius: 12px;
+    box-sizing: border-box;
+    height: auto;
+}
+#checkbox{
+width: 20px;
+}
+#submit{
+   text-align: center;
+   background-color: #3be6ad;
+   border-radius: 12px;
+    
+}
+button{
+   color: rgb(125, 180, 229);
+}
+#fill{
+    font-family: cursive;
+    font-size: large;
+    color: rgb(117, 80, 252);
+}
